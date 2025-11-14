@@ -1,0 +1,3 @@
+GET OUT THERE AND GET CLIPPING!
+
+- getClipped
